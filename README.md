@@ -6,8 +6,8 @@
 
 I'm a passionate developer who loves exploring new technologies and building innovative projects. I have experience in various programming languages and frameworks, and I'm always eager to learn more.
 
-- 🌱 I’m currently learning **[insert technology or language you're currently learning]**
-- 🔭 I’m currently working on **[insert project you're currently working on]**
+- 🌱 I’m currently learning **[C++]**
+- 🔭 I’m currently working on **[ls]**
 - 👯 I’m looking to collaborate on **[insert type of projects you want to collaborate on]**
 - 💬 Ask me about **[insert topics you are knowledgeable about]**
 - 📫 How to reach me: **[insert your email or other contact information]**
